@@ -1,3 +1,2 @@
-src/ingredients.json
-src/recipes.json
 mealenv/*
+build/
