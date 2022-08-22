@@ -1,0 +1,12 @@
+commonmark==0.9.1
+dataclasses==0.8
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+packaging==21.3
+Pint==0.17
+pydantic==1.9.2
+Pygments==2.13.0
+pyparsing==3.0.9
+rich==12.5.1
+typing_extensions==4.1.1
+zipp==3.6.0
