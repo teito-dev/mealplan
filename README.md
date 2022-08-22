@@ -20,6 +20,7 @@ TODO:
 - [ ] Get auto alerts, if a particular item in your fridge is only 
 - [ ] useable in recipes with a missing item
 - [ ] Track your approximate calories and macronutrients
+- [ ] Auto-derive which recipes are seasonal
 
 ## Screenshot 
 
